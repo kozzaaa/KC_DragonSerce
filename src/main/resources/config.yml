@@ -1,0 +1,6 @@
+serce:
+  lider: '&4&l&o>> &c&l&oBLAD! &7&oNie jestes liderem gildii'
+  brak: '&4&l&o>> &c&l&oBLAD! &7&oNie mozesz sie tepnac do serca gdy nie masz gildii!'
+  god: '&a&lPrzeteleportowano!'
+  tp: '&a&lZostaniesz przeteleportowany za &2&l10 sekund &c&lProsze sie nie ruszac.'
+  from: '&4&lRuszyles sie podczas teleportacji, anulowano teleportacje!'

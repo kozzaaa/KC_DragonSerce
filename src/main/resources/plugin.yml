@@ -1,0 +1,7 @@
+name: KC_DragonSerce
+version: 1.0-SNAPSHOT
+main: pl.kozzaaa.dragonserce.Main
+author: kozzaaa
+
+commands:
+  serce:
